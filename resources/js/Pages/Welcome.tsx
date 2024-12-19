@@ -179,7 +179,7 @@ export default function Welcome({
                                             JavaScript development. Check them
                                             out, see for yourself, and massively
                                             level up your development skills in
-                                            the process.
+                                            in the process.
                                         </p>
                                     </div>
 
@@ -224,11 +224,10 @@ export default function Welcome({
 
                                         <p className="mt-4 text-sm/relaxed">
                                             Laravel News is a community driven
-                                            portal and newsletter aggregating
-                                            all of the latest and most important
-                                            news in the Laravel ecosystem,
-                                            including new package releases and
-                                            tutorials.
+                                            portal and newsletter latest and
+                                            most important news in the Laravel
+                                            ecosystem, including new package
+                                            releases and tutorials.
                                         </p>
                                     </div>
 
